@@ -1,1 +1,1 @@
-# library_system_oop_concepts_ES6_sc_inf-
+# Rewrite Library Management System Requirements homework using ES6
